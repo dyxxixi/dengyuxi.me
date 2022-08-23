@@ -2,7 +2,7 @@
 
 
 
-Hi, I'm GeekEvan!
+Hi, I'm Deng Yuxi!
 
 This is my personal website powered by [Vite](https://vitejs.dev/) and some related plugins.
 
