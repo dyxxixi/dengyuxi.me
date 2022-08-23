@@ -88,7 +88,7 @@ watch(
         typed = new Typed(el, {
             strings: myIntroduce
                 .map((e) => e.words)
-                .concat("I'm GeekEvan, This is me."),
+                .concat("I'm Deng Yuxi, This is me."),
             typeSpeed: 20,
             onStringTyped: (index) => {
                 if (!wordCloud) return;

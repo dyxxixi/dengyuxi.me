@@ -23,19 +23,19 @@
           <span class="<md:hidden">Notes</span>
           <ic-twotone-event-note class="md:hidden" />
         </a> -->
-        <a href="https://github.com/geekevan" target="_blank" title="GitHub">
+        <a href="https://github.com/d-yx" target="_blank" title="GitHub">
           <ri-github-line />
         </a>
-        <a href="https://twitter.com/_geekevan" target="_blank" title="Twitter">
+        <a href="https://twitter.com/_dengyuxi" target="_blank" title="Twitter">
           <ri-twitter-line />
         </a>
-        <a
+        <!-- <a
           href="https://www.zhihu.com/people/jsn-23-81"
           target="_blank"
           title="ZhiHu"
         >
           <ri-zhihu-line />
-        </a>
+        </a> -->
 
         <toggle-theme />
       </div>

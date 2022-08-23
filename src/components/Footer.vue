@@ -6,7 +6,7 @@
                 href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
                 style="color: inherit"
             >CC BY-NC-SA 4.0</a>
-            2022 © GeekEvan
+            2022 © Deng Yuxi
         </span>
     </div>
 </template>

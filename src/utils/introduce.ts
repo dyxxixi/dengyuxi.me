@@ -9,8 +9,8 @@ export interface Introduce {
 
 export const myIntroduce: Introduce[] = [
     {
-        words: "Hi, I'm GeekEvan.",
-        keyword: ["GeekEvan 👋"],
+        words: "Hi, I'm Deng Yuxi.",
+        keyword: ["Deng Yuxi 👋"],
         color: ["#7DB9DE"],
         weight: 10,
     },
@@ -33,9 +33,9 @@ export const myIntroduce: Introduce[] = [
         weight: 6,
     },
     {
-        words: "I also like math and physics.",
-        keyword: ["Math 📐", "Physics ⚛"],
-        color: ["#61dafb", "#dd0031"],
+        words: "I like reading,too.",
+        keyword: ["Read 📕"],
+        color: ["#61dafb"],
         weight: 5,
     },
 ];
