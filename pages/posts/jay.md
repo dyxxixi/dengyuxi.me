@@ -7,7 +7,7 @@ duration: 5min
 ---
 
 > 最近几年倒下了很多偶像，到头来才发现咱们的杰伦才是yyds！
-![Alt text](https://cdn.jsdelivr.net/gh/dyx990908/my-images@main/my-site/jay-chou.webp)
+![Alt text](https://cdn.staticaly.com/gh/d-yx/my-images@main/my-site/jay-chou.webp)
 
 #### 分享
 [周杰伦-14张专辑-158首无损珍藏版](https://www.aliyundrive.com/s/3chi1PczTnC)
