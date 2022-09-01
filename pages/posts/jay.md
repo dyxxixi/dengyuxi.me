@@ -10,5 +10,5 @@ duration: 5min
 ![Alt text](https://cdn.staticaly.com/gh/d-yx/my-images@main/my-site/jay-chou.webp)
 
 #### 分享
-[周杰伦-14张专辑-158首无损珍藏版](https://www.aliyundrive.com/s/3chi1PczTnC)
+[周杰伦MV专辑142首蓝光至尊版](https://www.aliyundrive.com/s/LZaFr2tqcPF)
 
