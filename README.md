@@ -1,14 +1,11 @@
-<p align="center">
-    <img width="200" src="https://archergu.me/logo_b.png" alt="logo">
-</p>
+# [dengyuxi.me](https://dengyuxi.me/) 
 
-# [ArcherGu.me](http://archergu.me/) 🏹
 
-嗨，我是顾不上！
 
-Hi, I'm Archer Gu!
+Hi, I'm Deng Yuxi!
 
 This is my personal website powered by [Vite](https://vitejs.dev/) and some related plugins.
+
 
 ## License
 
