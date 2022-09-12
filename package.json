@@ -1,5 +1,5 @@
 {
-    "name": "geekevan.me",
+    "name": "dengyuxi.me",
     "version": "0.0.0",
     "scripts": {
         "dev": "vite --port 3333 --open",
