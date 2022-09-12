@@ -1,3 +1,8 @@
+<script setup lang="ts">
+import { isDark } from '@/utils'
+const isProd = import.meta.env.PROD
+</script>
+
 <template>
   <header class="header">
     <router-link
@@ -5,8 +10,8 @@
       to="/"
       focusable="false"
     >
-      <img v-show="isDark" src="/logo-dark.svg" alt="logo" />
-      <img v-show="!isDark" src="/logo.svg" alt="logo" />
+      <img v-show="isDark" src="/logo-dark.svg" alt="logo">
+      <img v-show="!isDark" src="/logo.svg" alt="logo">
     </router-link>
     <nav class="nav">
       <div class="spacer" />
@@ -15,86 +20,66 @@
           <span class="<md:hidden">Blog</span>
           <ri-article-line class="md:hidden" />
         </router-link>
-        <!-- <router-link to="/projects">
-                    <span class="<md:hidden">Projects</span>
-                    <ri-lightbulb-line class="md:hidden" />
-                </router-link> -->
-        <!-- <a href="http://notes.evandeng.icu" target="_blank" title="Notes">
-          <span class="<md:hidden">Notes</span>
-          <ic-twotone-event-note class="md:hidden" />
-        </a> -->
         <a href="https://github.com/d-yx" target="_blank" title="GitHub">
           <ri-github-line />
         </a>
         <a href="https://twitter.com/_dengyuxi" target="_blank" title="Twitter">
           <ri-twitter-line />
         </a>
-        <!-- <a
-          href="https://www.zhihu.com/people/jsn-23-81"
-          target="_blank"
-          title="ZhiHu"
-        >
-          <ri-zhihu-line />
-        </a> -->
-
         <toggle-theme />
       </div>
     </nav>
   </header>
 </template>
 
-<script setup lang="ts">
-import { isDark } from "@/utils";
-</script>
-
-<style scoped>
+<style lang="scss" scoped>
 .header h1 {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
 
 .logo {
-  position: absolute;
-  top: 1.5rem;
-  left: 1.5rem;
+    position: absolute;
+    top: 1.5rem;
+    left: 1.5rem;
 }
 
 .nav {
-  padding: 2rem;
-  width: 100%;
-  display: grid;
-  grid-template-columns: auto max-content;
-  box-sizing: border-box;
+    padding: 2rem;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto max-content;
+    box-sizing: border-box;
 }
 
 .nav > * {
-  margin: auto;
+    margin: auto;
 }
 
 .nav img {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
 
 .nav a {
-  cursor: pointer;
-  text-decoration: none;
-  color: inherit;
-  transition: opacity 0.2s ease;
-  opacity: 0.6;
-  outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+    transition: opacity 0.2s ease;
+    opacity: 0.6;
+    outline: none;
 }
 
 .nav a:hover {
-  opacity: 1;
-  text-decoration-color: inherit;
+    opacity: 1;
+    text-decoration-color: inherit;
 }
 
 .nav .right {
-  display: grid;
-  grid-gap: 1.2rem;
-  grid-auto-flow: column;
+    display: grid;
+    grid-gap: 1.2rem;
+    grid-auto-flow: column;
 }
 
 .nav .right > * {
-  margin: auto;
+    margin: auto;
 }
 </style>

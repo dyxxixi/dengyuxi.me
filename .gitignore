@@ -1,7 +1,11 @@
 node_modules
 .DS_Store
 dist
-dist-ssr
 *.local
-*.log
-.vercel
+.presite
+dist-ssr
+.vite-ssg-temp
+components.d.ts
+auto-imports.d.ts
+temp
+.pnpm-debug.log

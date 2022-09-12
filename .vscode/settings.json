@@ -1,16 +1,27 @@
 {
-    "cSpell.words": [
-        "anatine",
-        "antfu",
-        "antv",
-        "archergu",
-        "funcs",
-        "iconify",
-        "nestjs",
-        "outfile",
-        "proto",
-        "returntype",
-        "tabler",
-        "typeof"
-    ]
+  "cSpell.words": [
+    "anatine",
+    "antfu",
+    "antv",
+    "archergu",
+    "cobertura",
+    "emojione",
+    "funcs",
+    "gsap",
+    "iconify",
+    "nestjs",
+    "noopener",
+    "noto",
+    "outfile",
+    "Pixi",
+    "pnpm",
+    "proto",
+    "returntype",
+    "rgba",
+    "tabler",
+    "typeof",
+    "unocss",
+    "unplugin",
+    "unref"
+  ]
 }
