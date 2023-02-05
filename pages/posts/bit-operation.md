@@ -8,7 +8,7 @@ duration: 10min
 
 ## 需求
 在TypeScript中，假如我们需要定义这样一个枚举，用于判定获取资源的权限，如下：
-```TypeScript
+```ts
 enum Permission{
   Read,     //可读
   Write,    //可写
@@ -17,7 +17,7 @@ enum Permission{
 }
 ```
 但是，通常我们需要对这些权限进行组合，我们首先想到的是可以这样操作：
-```TypeScript
+```ts
 enum Permission{
   Read,
   Write,
@@ -32,7 +32,7 @@ enum Permission{
 
 ## 位运算
 一、首先这样改写：
-```TypeScript
+```ts
 enum Permission{
   Read = 1,   //0001
   Write = 2,  //0010
@@ -50,7 +50,7 @@ enum Permission{
 
 三、那如何判断是否拥有某个权限呢？，那就可以使用且运算（使用`&`符号），例如：
 我们可以写这样一个函数：
-```TypeScript
+```ts
 let p:Permission = Permission.Read | Permission.Write;
 function hasPermission(target:Permission,pre:Permission){
   return (target & pre) === pre;
@@ -60,7 +60,7 @@ hasPermission(p,Permission.Create) //false
 ```
 
 四、那假如要删除某个权限呢？那就可以使用异或运算（使用`^`符号），例如：
-```TypeScript
+```ts
 p = p ^ Permission.Write;
 hasPermission(p,Permission.Write) //false
 ```
