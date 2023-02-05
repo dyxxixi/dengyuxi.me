@@ -12,7 +12,7 @@
 
 html:not(.dark) {
     --prism-foreground: #393a34;
-    --prism-background: #ecebe4;
+    --prism-background: #fafafa;
     --prism-comment: #a0ada0;
     --prism-string: #b56959;
     --prism-literal: #2f8a89;
@@ -33,7 +33,7 @@ html:not(.dark) {
 }
 
 html.dark {
-    --prism-foreground: #d4cfbf;
+    --prism-foreground: #c5c5c5;
     --prism-background: #111111;
     --prism-comment: #758575;
     --prism-string: #d48372;
@@ -62,7 +62,7 @@ html.dark {
     --fg: #555;
     --fg-deep: #222;
     --fg-deeper: #000;
-    --link: #00aa90;
+    --link: #000;
     color: var(--fg);
     max-width: 74ch;
 
@@ -92,7 +92,7 @@ html.dark .prose {
     --fg: #bbb;
     --fg-deep: #ddd;
     --fg-deeper: #fff;
-    --link: #33a6b8;
+    --link: #ddd;
 
     a code {
         color: inherit;

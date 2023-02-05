@@ -13,19 +13,19 @@ body,
 }
 
 :root {
-  --c-bg: #f4f3ef;
+  --c-bg: #fff;
   --c-scrollbar: #ccc;
   --c-scrollbar-hover: #aaa;
 }
 
 html {
   background-color: var(--c-bg);
-  background-image: url("/texture.png");
+  // background-image: url("/texture.png");
   @apply text-gray-700;
 }
 
 html.dark {
-  --c-bg: #050505;
+  --c-bg: #000;
   --c-scrollbar: #111;
   --c-scrollbar-hover: #222;
   @apply text-gray-200;
@@ -40,7 +40,7 @@ html {
 }
 
 #nprogress .bar {
-  @apply bg-cyan-500;
+  @apply bg-gray-400;
 
   position: fixed;
   z-index: 1031;
@@ -57,6 +57,10 @@ html {
 
 .icon-btn {
   @apply inline-block cursor-pointer select-none opacity-75 transition duration-200 ease-in-out hover: opacity-100 hover:text-teal-600;
+}
+
+a:hover{
+  color: #aaa;
 }
 
 * {
