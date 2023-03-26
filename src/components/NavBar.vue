@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { isDark } from '@/utils'
-const isProd = import.meta.env.PROD
 </script>
 
 <template>
