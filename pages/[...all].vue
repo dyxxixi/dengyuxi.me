@@ -4,7 +4,7 @@
     </div>
 </template>
 
-<style lang="scass">
+<style lang="sass">
 .no-page {
     h1 {
         font-size: 5rem;
