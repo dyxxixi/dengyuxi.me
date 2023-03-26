@@ -23,7 +23,7 @@ const isProd = import.meta.env.PROD
         <a href="https://github.com/d-yx" target="_blank" title="GitHub">
           <ri-github-line />
         </a>
-        <a href="https://twitter.com/_dengyuxi" target="_blank" title="Twitter">
+        <a href="https://twitter.com/dengyuxiii" target="_blank" title="Twitter">
           <ri-twitter-line />
         </a>
         <toggle-theme />
