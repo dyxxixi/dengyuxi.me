@@ -15,5 +15,4 @@ useHead({
     <router-view />
     <Footer />
   </main>
-  <!-- <Widget /> -->
 </template>
