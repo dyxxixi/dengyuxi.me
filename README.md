@@ -2,7 +2,7 @@
 
 
 
-Hi, I'm Deng Yuxi!
+Hi, I'm Joseph Deng!
 
 This is my personal website powered by [Vite](https://vitejs.dev/) and some related plugins.
 
