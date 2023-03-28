@@ -26,8 +26,8 @@ async function buildBlogRSS() {
   const files = await fg('pages/posts/*.md')
 
   const options = {
-    title: 'Joseph',
-    description: 'Joseph\' Blog',
+    title: 'Joseph\'s Blog',
+    description: 'Joseph\'s Blog',
     id: 'https://dengyuxi.me/',
     link: 'https://dengyuxi.me/',
     copyright: 'CC BY-NC-SA 4.0 2021-PRESENT © Joseph',
@@ -43,9 +43,6 @@ async function buildBlogRSS() {
         .map(async (i) => {
           const raw = await fs.readFile(i, 'utf-8')
           const { data, content } = matter(raw)
-
-          // if (data.lang !== 'en')
-          //   return
 
           const html = markdown.render(content)
             .replace('src="/', `src="${DOMAIN}/`)
