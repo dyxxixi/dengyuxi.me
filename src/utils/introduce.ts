@@ -7,8 +7,8 @@ export interface Introduce {
 
 export const myIntroduce: Introduce[] = [
   {
-    words: 'Hi, I\'m Deng Yuxi.',
-    keyword: ['Deng Yuxi 👋'],
+    words: 'Hi, I\'m Joseph Deng.',
+    keyword: ['Joseph Deng 👋'],
     color: ['#7DB9DE'],
     weight: 10,
   },

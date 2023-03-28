@@ -3,8 +3,8 @@ import { useHead } from '@vueuse/head'
 
 useHead({
   meta: [
-    { property: 'og:title', content: 'Deng Yuxi' },
-    { name: 'description', content: 'Deng Yuxi\'s Room' },
+    { property: 'og:title', content: 'Joseph' },
+    { name: 'description', content: 'Joseph\'s Room' },
   ],
 })
 </script>

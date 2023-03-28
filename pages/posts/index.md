@@ -1,5 +1,5 @@
 ---
-title: Blog - Deng Yuxi
+title: Blog - Joseph
 display: ""
 ---
 
