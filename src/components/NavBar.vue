@@ -23,7 +23,10 @@ import { isDark } from '@/utils'
           <ri-github-line />
         </a>
         <a href="https://twitter.com/dengyuxiii" target="_blank" title="Twitter">
-          <ri-twitter-line />
+          <ri-twitter-line class=""/>
+        </a>
+        <a href="https://dengyuxi.me/feed.xml" target="_blank" title="RSS">
+          <ri-rss-line />
         </a>
         <toggle-theme />
       </div>
