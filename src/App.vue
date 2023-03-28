@@ -4,7 +4,7 @@ import { useHead } from '@vueuse/head'
 useHead({
   meta: [
     { property: 'og:title', content: 'Joseph' },
-    { name: 'description', content: 'Joseph\'s Room' },
+    { name: 'description', content: 'Joseph\'s Home' },
   ],
 })
 </script>
