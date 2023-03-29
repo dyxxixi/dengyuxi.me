@@ -39,7 +39,7 @@ watch(wordCloudRef, () => {
       fontFamily: 'Dosis',
       fontSize: [20, width.value < 640 ? 20 : 50],
       rotation: 0,
-      padding: width.value < 640 ? 15 : 30,
+      padding: width.value < 640 ? 13 : 30,
     },
     spiral: 'rectangular',
     random: () => 0.5,
