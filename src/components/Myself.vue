@@ -30,16 +30,16 @@ watch(wordCloudRef, () => {
   wordCloud = new WordCloud(el as HTMLElement, {
     data: [],
     autoFit: true,
-    height: width.value < 640 ? 500 : 600,
+    height: 550,
     wordField: 'keyword',
     weightField: 'weight',
     colorField: 'color',
     color: ({ color }) => color || 'white',
     wordStyle: {
       fontFamily: 'Dosis',
-      fontSize: [20, width.value < 640 ? 40 : 50],
+      fontSize: [20, width.value < 640 ? 20 : 50],
       rotation: 0,
-      padding: 10,
+      padding: width.value < 640 ? 15 : 30,
     },
     spiral: 'rectangular',
     random: () => 0.5,
@@ -81,7 +81,7 @@ watch(
       strings: myIntroduce
         .map(e => e.words)
         .concat('I\'m Joseph Deng, This is me.'),
-      typeSpeed: 20,
+      typeSpeed: 30,
       onStringTyped: (index) => {
         if (!wordCloud)
           return

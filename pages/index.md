@@ -4,5 +4,5 @@ display: ""
 ---
 
 <ClientOnly>
-    <Myself />
+    <Myself class="h-150" />
 </ClientOnly>
