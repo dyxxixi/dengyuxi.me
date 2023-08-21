@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@antv/g2plot": "^2.4.20",
+    "@vercel/analytics": "^1.0.2",
     "@vueuse/core": "^8.9.0",
     "@vueuse/head": "^0.7.6",
     "dayjs": "^1.11.3",
