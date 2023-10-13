@@ -14,4 +14,4 @@ duration: 10min
 最喜欢其中一句台词：“有些人浅薄，有些人金玉其外败絮其中，但是总有一天，你会遇到一个绚丽的人，她让你觉得你以前遇到过的所有人都只是浮云。”
 </span>
 
-![Flipped](https://cdn.staticaly.com/gh/d-yx/my-images@main/my-site/Flipped.webp)
+![Flipped](https://jsd.cdn.zzko.cn/gh/dyxxixi/my-images@main/my-site/Flipped.webp)

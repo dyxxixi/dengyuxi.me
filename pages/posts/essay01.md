@@ -15,5 +15,5 @@ duration: 8min
 人活在这个世界上，不要指望任何人能帮你，你要想获得自己想要的一切，最终还是得靠自己。
 </span>
 
-![essay01](https://cdn.staticaly.com/gh/d-yx/my-images@main/my-site/essay01.webp)
+![essay01](https://jsd.cdn.zzko.cn/gh/dyxxixi/my-images@main/my-site/essay01.webp)
 

@@ -11,5 +11,5 @@ duration: 6min
 <p align="right">————杨绛</p>
 </span>
 
-![alone](https://cdn.staticaly.com/gh/d-yx/my-images@main/my-site/alone.webp)
+![alone](https://jsd.cdn.zzko.cn/gh/dyxxixi/my-images@main/my-site/alone.webp)
 

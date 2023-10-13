@@ -3,10 +3,10 @@ import './styles/index.scss'
 import routes from 'pages-generated'
 import { ViteSSG } from 'vite-ssg'
 import type { RouterScrollBehavior } from 'vue-router'
-import App from './App.vue'
 import { inject } from '@vercel/analytics'
+import App from './App.vue'
 
-// Vercel Web Analytics 
+// Vercel Web Analytics
 inject()
 
 const scrollBehavior: RouterScrollBehavior = (to, from, savedPosition) => {

@@ -19,10 +19,10 @@ import { isDark } from '@/utils'
           <span class="<md:hidden">Notes</span>
           <ri-book-line class="md:hidden" />
         </a>
-        <a href="https://github.com/d-yx" target="_blank" title="GitHub">
+        <a href="https://github.com/dyxxixi" target="_blank" title="GitHub">
           <tabler:brand-github />
         </a>
-        <a href="https://twitter.com/dengyuxiii" target="_blank" title="Twitter">
+        <a href="https://twitter.com/dyxxixi" target="_blank" title="Twitter">
           <iconoir:twitter />
         </a>
         <a href="https://dengyuxi.me/feed.xml" target="_blank" title="RSS">

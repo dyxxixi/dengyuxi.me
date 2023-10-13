@@ -10,5 +10,5 @@ duration: 5min
 一灯一月亮，与谁谈起忧伤？
 </span>
 
-![sadness](https://cdn.staticaly.com/gh/d-yx/my-images@main/my-site/sadness.webp)
+![sadness](https://jsd.cdn.zzko.cn/gh/dyxxixi/my-images@main/my-site/sadness.webp)
 

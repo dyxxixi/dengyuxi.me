@@ -7,7 +7,7 @@ duration: 5min
 ---
 
 > 最近几年倒下了很多偶像，到头来才发现咱们的杰伦才是yyds！
-![Alt text](https://cdn.staticaly.com/gh/d-yx/my-images@main/my-site/jay-chou.webp)
+![Alt text](https://jsd.cdn.zzko.cn/gh/dyxxixi/my-images@main/my-site/jay-chou.webp)
 
 #### 分享
 [周杰伦MV专辑142首蓝光至尊版](https://www.aliyundrive.com/s/LZaFr2tqcPF)
