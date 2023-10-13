@@ -10,5 +10,5 @@ duration: 5min
 ![Alt text](https://jsd.cdn.zzko.cn/gh/dyxxixi/my-images@main/my-site/jay-chou.webp)
 
 #### 分享
-[周杰伦MV专辑142首蓝光至尊版](https://www.aliyundrive.com/s/LZaFr2tqcPF)
+[周杰伦MV专辑142首蓝光至尊版](https://www.aliyundrive.com/s/d9cvrMFmiSu)
 
